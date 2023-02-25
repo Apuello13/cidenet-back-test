@@ -24,7 +24,9 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Proyecto creado con el Framework de NestJs.
+Se aplica una arquitectura hexagonal, diviendo las capas
+de todo el aplicativo y manejando todos los posibles errores que se puedan presentar en tiempo de ejecución.
 
 ## Installation
 
